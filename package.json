@@ -1,0 +1,53 @@
+{
+  "_from": "quill-image-extend-module",
+  "_id": "quill-image-extend-module@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-t8MDxFKCrocTPWQzJNXKOcbVKSE=",
+  "_location": "/quill-image-extend-module",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "quill-image-extend-module",
+    "name": "quill-image-extend-module",
+    "escapedName": "quill-image-extend-module",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://repo.3weijia.com/repository/npm-publice/quill-image-extend-module/-/quill-image-extend-module-1.1.2.tgz",
+  "_shasum": "b7c303c45282ae87133d643324d5ca39c6d52921",
+  "_spec": "quill-image-extend-module",
+  "_where": "F:\\workspace\\overseas\\aihousemanager\\src\\frontend",
+  "author": {
+    "name": "nextboy"
+  },
+  "bugs": {
+    "url": "https://github.com/NextBoy/quill-image-extend-module/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "plugin for vue-quill-editor to upload image",
+  "homepage": "https://github.com/NextBoy/quill-image-extend-module#readme",
+  "keywords": [
+    "quill",
+    "quill-upload",
+    "quill-image",
+    "drop"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@3vjia/quill-image-extend-module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextBoy/quill-image-extend-module.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
