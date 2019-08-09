@@ -1,5 +1,5 @@
 {
-  "name": "quill-image-extend-module-fix",
+  "name": "@3vjia/quill-image-extend-module-fix",
   "version": "1.0.1",
   "description": "plugin for vue-quill-editor to upload image",
   "main": "index.js",
