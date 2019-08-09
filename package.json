@@ -1,5 +1,5 @@
 {
-  "name": "@3vjia/quill-image-extend-module-fix",
+  "name": "@3vjia/quill-image-extend-module",
   "version": "1.0.1",
   "description": "plugin for vue-quill-editor to upload image",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yin-Jie/quill-image-extend-module-fix.git"
+    "url": "git+https://github.com/Yin-Jie/quill-image-extend-module.git"
   },
   "keywords": [
     "quill",
@@ -19,7 +19,7 @@
   "author": "YIN-JIE",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yin-Jie/quill-image-extend-module-fix/issues"
+    "url": "https://github.com/Yin-Jie/quill-image-extend-module/issues"
   },
-  "homepage": "https://github.com/Yin-Jie/quill-image-extend-module-fix"
+  "homepage": "https://github.com/Yin-Jie/quill-image-extend-module"
 }
